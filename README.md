@@ -21,7 +21,7 @@ This notebook computes the asymptotic of an Euler factor in the diagonal term; s
 
 ### U2pnmid.nb
 
-This notebook computes the Euler factors of the $\mathcal{U}^{2}$-sum of the paper (Section 10).
+This notebook computes the Euler factors of the $\mathcal{U}^{2}(h,k)$-sum of the paper (Section 10).
 
 ### UrFinExact.nb
 
