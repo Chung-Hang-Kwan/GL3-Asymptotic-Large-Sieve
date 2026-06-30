@@ -36,6 +36,10 @@ This computes and bounds the infinite Euler product of $\mathfrak{A}_{p}$'s in t
 
 This carries out the "ratios"/mollification calculations in Section 13 of the paper.
 
+## Computation logs
+
+We also attach PDF files containing the output obtained by running the Mathematica notebooks above. We use Wolfram Mathematica v. 13.3.
+
 Enjoy!
 
 
