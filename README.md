@@ -2,7 +2,7 @@
 
 Hello World!
 
-This repository contains the Mathematica notebooks used for the paper "Critical Zeros and Unconditional Mean Value Theorems for twisted $\hbox{PGL}(2)$ and $\hbox{PGL}(3)$ $\mathrm{L}$-functions", written by Brian Conrey, Yongxiao Lin, Caroline Turnage-Butterbaugh, and me.
+This repository contains the Mathematica notebooks used for the paper "Critical Zeros and Unconditional Mean Value Theorems for Twisted $\hbox{PGL}(2)$ and $\hbox{PGL}(3)$ $\mathrm{L}$-functions" (arXiv: 2607.00282), written by Brian Conrey, Yongxiao Lin, Caroline Turnage-Butterbaugh, and me.
 
 We use the computer package gln.m written by Kevin A. Broughan (as part of Goldfeld's GL(n) book). Please download the gln.m file along with all of our notebooks, and place them in the same folder. To load the gln.m file to a session, use
 
