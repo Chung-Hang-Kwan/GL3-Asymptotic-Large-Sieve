@@ -9,6 +9,8 @@ We use the computer package gln.m written by Kevin A. Broughan (as part of Goldf
 SetDirectory[NotebookDirectory[]]; 
            << gln.m
 
+For a summary of commonly used code, please refer to the file Instructions_code.pdf. 
+
 ## Notebooks
 
 ### ShiftNaRS.nb
